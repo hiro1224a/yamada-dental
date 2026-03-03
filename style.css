@@ -76,3 +76,36 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+.schedule {
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 30px;
+}
+
+.schedule h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.schedule-table th,
+.schedule-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.schedule-table th {
+  background-color: #F6C177;
+  color: white;
+}
+
+.note {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}

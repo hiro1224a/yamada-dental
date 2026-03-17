@@ -172,3 +172,14 @@ site-header {
   color: #555;
   text-align: center;
 }
+.cta-button {
+  display: block;
+  background: #F6C177;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  border-radius: 30px;
+  margin: 20px auto;
+  max-width: 300px;
+  font-weight: bold;
+}

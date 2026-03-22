@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://izumo-yamada.github.io/yamada-dental/sitemap.xml
